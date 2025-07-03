@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    rgb(59, 36, 98)
+    color: (59, 36, 98);
 }
 
 .container {
@@ -52,7 +52,6 @@ form {
     color: white;
     font-size: 16px;
     line-height: 20px;
-
 }
 
 .quote {
@@ -69,5 +68,4 @@ footer {
     margin-top: 20px;
     text-align: center;
     font-size: 13px;
-
 }
